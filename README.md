@@ -1,4 +1,10 @@
-### Hi there 👋
+### Shubham Wawale
+- I am an aspiring Software Engineer and a computer science student at North Carolina State University.
+- I am interested in application development and have worked on a plethora of technologies, including frontend/backend frameworks, databases, and cloud technologies.
+- I like to read about system design, databases, and backend architectures.
+
+### Contact Me
+- Feel free to reach out to me at wawaleshubham@gmail.com.
 
 <!--
 **shubham-wawale/shubham-wawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
