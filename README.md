@@ -2,6 +2,7 @@
 - I am an aspiring Software Engineer and a computer science student at North Carolina State University.
 - I am interested in application development and have worked on a plethora of technologies, including frontend/backend frameworks, databases, and cloud technologies.
 - I like to read about system design, databases, and backend architectures.
+- Current building s2c-nexus, an integrated platform for hiring and interviewing university students.
 
 ### Contact Me
 - Feel free to reach out to me at wawaleshubham@gmail.com.
