@@ -1,8 +1,8 @@
 ### Shubham Wawale
-- I am an aspiring Software Engineer and a computer science student at North Carolina State University.
+- I'm currently focused on platform engineering, exploring Kubernetes, Docker, and GoLang to build scalable and resilient infrastructure. 🚀
 - I am interested in application development and have worked on a plethora of technologies, including frontend/backend frameworks, databases, and cloud technologies.
 - I like to read about system design, databases, and backend architectures.
-- Currently building PawPet & Auth-Integrate.
+- I'm passionate about thrillers and history, always drawn to stories that unravel mysteries and explore the past.
 ### Contact Me
 - Feel free to reach out to me at wawaleshubham@gmail.com.
 
